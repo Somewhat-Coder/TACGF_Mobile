@@ -41,7 +41,6 @@ const Login = ({navigation}) => {
         catch (error) {
             console.error(error)
         }
-
     }
 
     const submithandler = async () => {
